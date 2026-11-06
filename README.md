@@ -23,7 +23,20 @@
 ##### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Salluter69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Salluter69&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Salluter69&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 data-importer="text" align="left">Games</h2>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salluter69/Salluter69/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salluter69/Salluter69/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Salluter69/Salluter69/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+
+
